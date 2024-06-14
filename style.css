@@ -49,6 +49,7 @@ titulo-secundario {
    color: var(--branco);
    font-size: 40px;
    font-family: var(--roboto-mono);
+   width: 70%;
 }
 
 #campo-senha-focus{
@@ -58,4 +59,8 @@ titulo-secundario {
 .conteudo{
    max-width: 1200px;
    margin: 0 auto;
+}
+
+.parametro{
+   
 }
